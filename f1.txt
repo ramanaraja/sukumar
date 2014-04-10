@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 sukumar reddy dandu
 pallu
+=======
+reddy
+>>>>>>> parent of f51227e... midified changes
